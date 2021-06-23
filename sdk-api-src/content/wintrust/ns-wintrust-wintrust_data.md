@@ -230,17 +230,17 @@ Use the certificate pointed to by <b>pCert</b>.
 ### -field pFile
 
 A pointer to a 
-<a href="/windows/desktop/api/wintrust/ns-wintrust-wintrust_file_info_">WINTRUST_FILE_INFO</a> structure.
+[WINTRUST_FILE_INFO](/windows/desktop/api/wintrust/ns-wintrust-wintrust_file_info) structure.
 
 ### -field pCatalog
 
 A pointer to a 
-<a href="/windows/desktop/api/wintrust/ns-wintrust-wintrust_catalog_info_">WINTRUST_CATALOG_INFO</a> structure.
+[WINTRUST_CATALOG_INFO](/windows/desktop/api/wintrust/ns-wintrust-wintrust_catalog_info) structure.
 
 ### -field pBlob
 
 A pointer to a 
-<a href="/windows/desktop/api/wintrust/ns-wintrust-wintrust_blob_info_">WINTRUST_BLOB_INFO</a> structure.
+[WINTRUST_BLOB_INFO](/windows/desktop/api/wintrust/ns-wintrust-wintrust_blob_info) structure.
 
 ### -field pSgnr
 
@@ -250,7 +250,7 @@ A pointer to a
 ### -field pCert
 
 A pointer to a 
-<a href="/windows/desktop/api/wintrust/ns-wintrust-wintrust_cert_info_">WINTRUST_CERT_INFO</a> structure.
+[WINTRUST_CERT_INFO](/windows/desktop/api/wintrust/ns-wintrust-wintrust_cert_info) structure.
 
 ### -field dwStateAction
 
